@@ -1,0 +1,58 @@
+/* Add your custom styles here */
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding-top: 0px; /* Adjust based on your navbar height */
+    
+}
+
+/* Add more styles as needed */
+
+section{
+    padding-top: 60px;
+}
+
+footer{
+    padding-top: 100px;
+}
+
+
+.pro-title{
+    font-style: normal;
+    font-weight: lighter;
+    padding-bottom: 20px;
+}
+
+.pro-heading{
+    padding-top: 50px;
+}
+
+.about-heading{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.info{
+    padding-top: 30px;
+}
+
+.project-heading{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact-heading{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pro-icon{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    border: 1px solid #a0a0a0;
+    padding: 2px;
+    border-radius: 50%;
+}
